@@ -84,3 +84,16 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.highlight {
+    background-color: violet;
+}
+
+.closure-banner {
+    background-color: tomato;
+}
+
+.footer {
+    height: 250px;
+    background-color: white;
+}
